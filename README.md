@@ -1,4 +1,4 @@
-# ProjectCommitGitNotes
+# Pushing Projects
 Reminder of how to push existing projects to GitHub through git bash
 
 ## On GitHub
