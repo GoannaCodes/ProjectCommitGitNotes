@@ -12,6 +12,6 @@ Reminder of how to push existing projects to GitHub through git bash
 4. Add all files to Git index using `git add -A` 
 5. Add commit comment using `git commit -m '[message here]'`
 6. Add new remote origin (where to push project) using `git remote add origin [GitHub repository]`
-7. Push files to GitHub repository using `git push -u -f origin master`
+7. Push files to GitHub repository using `git push -u -f origin master` (may need to enter GitHub credentials in order to push)
 
 Refresh GitHub repository page and the project files should be pushed
